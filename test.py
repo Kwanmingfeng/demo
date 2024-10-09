@@ -5,4 +5,4 @@ for i in range(1,10):
         print(f"{x}*{i}={i*x} ",end="    ")
     print(" ")
     
- #测试
+ #测试99乘法表
